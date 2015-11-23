@@ -1,0 +1,110 @@
+\documentclass[12pt]{article}
+
+\usepackage{sbc-template}
+
+\usepackage{graphicx,url}
+
+%\usepackage[brazil]{babel}   
+\usepackage[latin1]{inputenc}  
+
+     
+\sloppy
+
+\title{Ultiliza\c c\~ao da Escala Anal\'ogica - VAS em M\'etodos de Avalia\c c\~ao de Usabilidade da Intera\c c\~ao Humano-Computador}
+
+\author{Andr\'e Barros de Sales\inst{1}, Danrley Willyan S. Pereira\inst{1}, Fabiana Freitas
+  Mendes\inst{1} }
+
+
+\address{Faculdade Gama -- Universidade de Brasília
+  (UnB)\\
+  Área Especial de Indústria Projeção A -- Gama/DF \\
+  CEP: 72.444-240 -- Gama-- DF -- Brasil
+  }
+
+\begin{document} 
+
+\maketitle
+
+\begin{abstract}
+This meta-paper proposes a work that has focus in a new usability evaluation method of human-computer interaction. This paper uses some elements of systematic review. The use of Visual-               Analog Scale  (VAS) is largely accepted in the behavior science. There exists some usability evaluation methods that propose the use of VAS for supporting the evaluation.
+\end{abstract}
+     
+\begin{resumo}
+Este artigo propõem um trabalho que tem como foco propor um novo método de avaliação de usabilidade da interação humano computador. Este artigo usa alguns elementos de revisão sistemática de literatura, chegou-se a ser feito até mesmo um protocolo de revisão. O uso da Escala Analógica Visual (VAS) é mais amplamente aceito nas ciências do comportamento. Existe alguns métodos de avaliação de usabilidade que propõem que se use a escala VAS para auxiliar a avaliação.
+\end{resumo}
+
+
+\section{Introdução}
+
+Há diversos estudos \cite{aperadorLaura} \cite{kindler2000visual} \cite{ferraz1990reliability} \cite{de2004comparison} \cite{revill1976reliability} comprovando que a escala analógica visual (VAS -- Visual Analog Scale) é um instrumento sólido, fácil de preencher, podem ser preenchidas rápidamente e administradas repetidamente, sensível a mudanças e portanto confiável de usar, demonstrando assim sua confiabilidade e sua validade. 
+
+Aprimorar métodos de avaliação de usabilidade é importante para entender se uma dada aplicação atende as necessidades do usuário final. Com esse foco, este trabalho dará base para a proposta de um novo método de avaliação de usabilidade da interação humano computador (IHC) usando a VAS.
+
+Este artigo está organizado em cinco seções: a seção 1 é a introdução, a seção 2 explica a metodologia da pesquisa, a seção 3 explica o que é a VAS e explicita seu uso em algumas áreas, a seção 4 explica o que é usabilidade e mostra alguns métodos de avaliação de usabilidade reconhecidos na área, a seção 5 faz as considerações finais do trabalho.
+
+
+\section{Metodologia da Pesquisa} \label{sec:firstpage}
+\subsection{Objetivos de pesquisa}
+O objetivo geral desta pesquisa é propor um método de avaliação de IHC utilizando a VAS. E foram definidos como objetivos específicos: compreender se a VAS pode ser usada como meio para a avaliação de usabilidade da IHC, se a conclusão for de que a VAS pode ser usada para a avaliação de usabilidade da IHC a pesquisa prosseguirá como uma pesquisa empírica para analisar o uso da VAS junto com algum método de avaliação de usabilidade na IHC. E o terceiro objetivo específico da pesquisa é propor um método de avaliação de usabilidade da IHC usando a VAS.
+
+\subsection{Estratégia de Busca de Trabalhos}
+As questões de pesquisa levantadas para atender os objetivos propostos foi: ''O que é a VAS e como está escala é usada atualmente?'' e ''O que é usabilidade e quais são os métodos de avaliação de usabilidade mais reconhecidos na área?''. Levantada estas questões fez-se a expressão geral de busca, como sendo: (''Escala analógica visual'' OR ''Visual analog scale'') AND (''Usabilidade'' OR ''Métodos de avaliação de usabilidade''). Com essa string de busca não se encontrou nenhum resultado, por isso é importante compreender o uso da VAS e entender se pode-se usá-la em algum método de avaliação de usabilidade. Portanto se mudou a string de busca, ao invés de se usar um AND se usou um OR:  (''Escala analógica visual'' OR ''Visual analog scale'') OR (''Usabilidade'' OR ''Métodos de avaliação de usabilidade'').
+	
+	Em todas as etapas da pesquisa haverá dois orientandos André Barros de Sales e Fabiana Freitas Mendes professores da Universidade de Brasília.
+	
+\section{VAS (Visual analog scale)}
+
+As escalas de avaliação objetivam medir opiniões e atitudes de forma objetiva. Escalas são mecanismos estruturados e padronizados para medir alguma variável, entre as escalas pode-se citar algumas como: Escala nominal, escala ordinal, escala métrica, escala intervalar e escala de razão, nesta seção se explicará e se explicitará a Escala Analógica Visual (VAS).
+	
+	O artigo The Visual Analog Scale Allows Effective Measurement of Preoperative Anxiety and Detection of Patients Anesthetic Concerns \cite{kindler2000visual} fez uso da escala analógica visual para medir a ansiedade de pacientes antes da cirurgia e detectar a preocupação de pacientes em relação a anestesia, examinando dessa forma a utilidade e a validade dessa escala para medir estas duas variáveis, embora o artigo chegue a conclusão de que a VAS é útil e valida para calcular essas variáveis, este também cita que é necessário estabelecer valores normativos para se fazer uso da VAS.
+	
+	A VAS é uma escala mais difícil de ser compreendida, alguns estudos sugerem ainda que não se use está escala em países em desenvolvimento, por causa do baixo nível de escolarização da população. Porém a VAS é melhor para detectar pequenas mudanças ao longo do tempo.\cite[p. 23]{gusQueiroz}
+	
+	De acordo com o estudo realizado para obtenção de dados do artigo ''Estudo Comparativo entre duas Escalas de Dor e a Aplicação em Doentes'' \cite{gusQueiroz} apenas 3 de 30 participantes consideraram a VAS uma escala  mais fácil de responder(1 participante 3,3\%) ou consideraram indiferentes as escalas(2 participantes 6,6\%), sendo que estes dois pacientes que consideraram indiferentes o uso das escalas tinham o ensino superior.
+	
+	A escala analógica visual é amplamente utilizada nas ciências do comportamento. Esta escala consiste, geralmente, em uma linha de 100mm(Figure~\ref{fig:exampleFig1}), onde se traça uma marca na linha para definir algum tipo de variável comportamental como exemplo. Também há variações do uso da VAS, como usar uma linha mais curta, de 65mm por exemplo, e também se pode usar uma variante vertical. O único ponto a ser levado em conta, de acordo com Scott e Huskisson \cite{scott1979vertical}, é que a pontuação na escala horizontal tende a ser inferior do que na vertical. 
+	
+\begin{figure}[ht]
+\centering
+\includegraphics[width=1\textwidth]{figura1.eps}
+\caption{Gr\'afico representando a VAS.}
+\label{fig:exampleFig1}
+\end{figure}
+	
+	O artigo La Escala Visual Analógica \cite{aperadorLaura}, faz uso da VAS para medir a intensidade da dor, diz que a VAS é um instrumento de medição que  trata de medir uma característica ou atitude que se estende de uma maneira contínua e não pode ser medida facilmente de uma maneira direta. Não se encontrou, neste estudo, diferenças significativas entre o uso da variantes da escala analógica visual, mas sim uma correlação muito grande entre elas. A figura(Figure~\ref{fig:exampleFig2}) apresenta uma variação da VAS em 2(duas) dimensões, medindo dessa forma a intensidade e a frequência da dor.
+	
+\begin{figure}[ht]
+\centering
+\includegraphics[width=1\textwidth]{figura2.eps}
+\caption{Gr\'afico representando a VAS em duas dimens\~oes}
+\label{fig:exampleFig2}
+\end{figure}
+
+Os autores do jornal Britânico de medicina Breivik  e Borchgrevink \cite{breivik2008assessment} disseram que a escala analógica visual ''apesar de se poder converter qualquer ponto da escala para cm ou porcentagem, a escala analógica visual não tem um verdadeira unidade de medida, pois ela é somente ordinal.'' Por a escala ser ordinal, quer dizer que seus resultados indicam somente uma estrutura ordenada e não valores matemáticos. É recomendando também não utilizar somas ou diferenças para tratar os dados obtidos, mas se recomenda o uso de métodos estatísticos como a média e a mediana para se medir a distribuição dos dados ordinais. Sendo de grande utilidade apresentar estes dados em gráficos e tabelas.
+	
+	Após a abordagem destes pontos percebe-se que a VAS é uma escala qualitativa e não quantitativa, que pode ser usada para avaliar, medir e definir variáveis comportamentais que não podem ser avaliadas com precisão por outras escalas. 
+	
+\section{Métodos de avaliação de usabilidade}
+
+O fator usabilidade em um software é um fator crítico para o sucesso do software, por este motivo alguns métodos são e foram desenvolvidos para permitir determinar o grau de usabilidade de dado um software.
+
+	De acordo com o padrão internacional ISO 9241-11\cite{iso19989241} usabilidade pode ser descrita como ''a extensão para qual um produto pode ser usado por usuários específicos para atingir uma meta com toda a efetividade, eficiência e satisfação em um contexto específico de uso''. A está definição pode-se acrescentar que a experiência de uso do software também é um fator importante a se considerar, para definir o grau de usabilidade de um software \cite{paz2014current}. A ISO 9126-1\cite{iso2001iec} também é uma padronização de usabilidade, mas está é específica para aplicações de software, está ISO diz que o usuário tem que entender o significado de cada elemento, a interface tem que ser intuitiva, permitindo o uso da aplicação por novos usuários e usuários veteranos. E a aplicação tem que ser atrativa para o usuário final.
+	
+	Métodos para avaliação de usabilidade são procedimentos compostos por uma serie de atividade bem definidas para coleta de dados que relatem a interação entre o usuário final e um produto de software. Estes dados são relatados para determinar como uma propriedade específica de um software contribuem para alcançar objetivos específicos \cite{fernandez2011usability}.
+	
+	Uma das categorizações mais reconhecidas de  métodos de avaliação é proposta por Nielsen  \cite{nielsen1994usability} e Holzinger \cite{holzinger2005usability} onde os métodos de avaliação de usabilidade são divididos em dois grupos: métodos de inspeção de usabilidade e métodos de teste de usabilidade. O método de inspeção é realizado por especialistas na área. Já no método de teste de usabilidade é proposta várias atividade para eles completarem usando um protótipo. A importância deste método é a capacidade de obter informações diretas de como se dar o uso da aplicação e este método facilita encontrar problemas em uma interface específica \cite{holzinger2005usability}.
+
+
+\section{Considerações Finais}\label{sec:figs}
+
+Este trabalho teve dois objetivos principais sendo o primeiro objetivo: Identificar o que é a escala analógica visual e como ela é usada atualmente, explicitando o seu uso na área médica e chegando a conclusão de que ela é usada mais amplamente nas ciências do comportamento, mais especificamente para medição da dor. 
+	
+	O segundo objetivo foi explicar o que é usabilidade e identificar métodos de avaliação desta. Chegou-se a conclusão de que os métodos mais aceitos na área são os dois métodos propostos por Nielsen \cite{nielsen1994usability} e Holzinger \cite{holzinger2005usability}, métodos de inspeção de usabilidade e métodos de teste de usabilidade.
+
+	A partir desses métodos, mais especificamente o método de teste de usabilidade, o qual se propõem várias atividades para o usuário final, se fará um estudo bibliográfico e empírico para verificar o uso desses métodos com o auxílio da VAS.
+
+\bibliographystyle{sbc}
+\bibliography{sbc-template}
+
+\end{document}
